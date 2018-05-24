@@ -20,3 +20,14 @@ C:\Users\Rembert Rodrigo\source\repos\ContosoUniversity - Copy (2)\ContosoUniver
 C:\Users\Rembert Rodrigo\source\repos\ContosoUniversity - Copy (2)\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.AssemblyInfo.cs
 C:\Users\Rembert Rodrigo\source\repos\ContosoUniversity - Copy (2)\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.dll
 C:\Users\Rembert Rodrigo\source\repos\ContosoUniversity - Copy (2)\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.pdb
+C:\Users\Rembert Rodrigo\Documents\ProyectoAlbum\ContosoUniversity\bin\Debug\netcoreapp2.0\ContosoUniversity.deps.json
+C:\Users\Rembert Rodrigo\Documents\ProyectoAlbum\ContosoUniversity\bin\Debug\netcoreapp2.0\ContosoUniversity.runtimeconfig.json
+C:\Users\Rembert Rodrigo\Documents\ProyectoAlbum\ContosoUniversity\bin\Debug\netcoreapp2.0\ContosoUniversity.runtimeconfig.dev.json
+C:\Users\Rembert Rodrigo\Documents\ProyectoAlbum\ContosoUniversity\bin\Debug\netcoreapp2.0\ContosoUniversity.dll
+C:\Users\Rembert Rodrigo\Documents\ProyectoAlbum\ContosoUniversity\bin\Debug\netcoreapp2.0\ContosoUniversity.pdb
+C:\Users\Rembert Rodrigo\Documents\ProyectoAlbum\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.csprojResolveAssemblyReference.cache
+C:\Users\Rembert Rodrigo\Documents\ProyectoAlbum\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.csproj.CoreCompileInputs.cache
+C:\Users\Rembert Rodrigo\Documents\ProyectoAlbum\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.AssemblyInfoInputs.cache
+C:\Users\Rembert Rodrigo\Documents\ProyectoAlbum\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.AssemblyInfo.cs
+C:\Users\Rembert Rodrigo\Documents\ProyectoAlbum\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.dll
+C:\Users\Rembert Rodrigo\Documents\ProyectoAlbum\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.pdb
